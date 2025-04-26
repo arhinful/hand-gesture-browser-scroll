@@ -64,18 +64,6 @@ This will:
 
 ---
 
-## 📦 Packaging to .exe (Optional)
-
-To create a single executable file:
-
-```bash
-pyinstaller --onefile app.py
-```
-
-> ℹ️ MediaPipe resources like `.binarypb` must be handled properly when packaging.
-
----
-
 ## 🔄 Pull Updates from GitHub
 
 ```bash
@@ -89,10 +77,9 @@ git pull origin main
 ```
 ├── app.py
 ├── model/
-│   └── keypoint_classifier.py
 ├── chrome-extension/
-│   └── [Chrome Extension Files]
 ├── com.gs.app.json
+├── keypoint_classifier_label.csv
 ├── set-registry.reg
 ├── requirements.txt
 └── README.md
@@ -111,4 +98,4 @@ git pull origin main
 ## 👨‍💻 Author
 
 **Emmanuel Arhinful**  
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/arhinful)
