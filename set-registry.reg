@@ -1,0 +1,6 @@
+
+    Windows Registry Editor Version 5.00
+
+    [HKEY_CURRENT_USER\Software\Google\Chrome\NativeMessagingHosts\com.gs.app]
+    @="C:\Users\USER\Desktop\hg\the_app\com.gs.app.json"
+    

@@ -1,0 +1,9 @@
+{
+  "name": "com.gs.app",
+  "description": "My local Python native messaging host",
+  "path": "C:\\Program Files\\Gesture\\app.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://knngeiofoldoohofcbdpefpjppfeklmo/"
+  ]
+}
