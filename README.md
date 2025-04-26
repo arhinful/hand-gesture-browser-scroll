@@ -26,11 +26,6 @@ Activate it:
   venv\Scripts\activate
   ```
 
-- **macOS/Linux**:
-  ```bash
-  source venv/bin/activate
-  ```
-
 ### 3. Install Requirements
 
 ```bash
